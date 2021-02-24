@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Note Taker" />
-
-  &#xa0;
-
-  <!-- <a href="https://notetaker.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Note Taker</h1>
 
 <p align="center">
